@@ -66,14 +66,17 @@ background-position: left;
 
 }
 #web-experience{
-    border-left: 7px solid;
+    /* border-left: 7px solid;
     border-image: linear-gradiant(red,tomato);
+    border-image-slice: 1; */
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
     border-image-slice: 1;
     
 }
 #java-experience{
     border-left: 7px solid;
-    border-image: linear-gradiant(rgb(121, 121, 131),tomato);
+    border-image: linear-gradient(blue,cyan);
     border-image-slice: 1;
 
 }

@@ -77,6 +77,11 @@ background-position: left;
     border-image-slice: 1;
 
 }
-.footer{
+.footer {
     text-align: center;
+   
+}
+.footer a{
+ 
+    text-decoration: none;
 }
